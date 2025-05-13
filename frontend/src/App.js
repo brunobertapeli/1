@@ -135,7 +135,10 @@ function Hero() {
           transition={{ duration: 0.5 }}
           className="hero-title"
         >
-          a12 XBT
+          A<br />
+          A<br />
+          A<br />
+          A
         </motion.h1>
         
         <motion.p 
