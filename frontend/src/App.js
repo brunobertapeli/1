@@ -135,7 +135,7 @@ function Hero() {
           transition={{ duration: 0.5 }}
           className="hero-title"
         >
-          Build SaaS Applications Faster
+          a12 XBT
         </motion.h1>
         
         <motion.p 
