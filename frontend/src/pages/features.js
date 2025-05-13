@@ -263,7 +263,7 @@ function FeaturesOverview() {
   return (
     <section className="features-overview">
       <div className="container">
-        <h2 className="section-title">At a Glance</h2>
+        <h2 className="section-title">Our Features</h2>
         <div className="overview-grid">
           {overviewFeatures.map((feature, index) => (
             <motion.div 
