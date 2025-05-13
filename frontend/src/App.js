@@ -135,7 +135,7 @@ function Hero() {
           transition={{ duration: 0.5 }}
           className="hero-title"
         >
-          Break the rules of the Game and WIn
+          Make sure you do everything correct
         </motion.h1>
         
         <motion.p 
