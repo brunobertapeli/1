@@ -135,10 +135,7 @@ function Hero() {
           transition={{ duration: 0.5 }}
           className="hero-title"
         >
-          A<br />
-          A<br />
-          A<br />
-          A
+          Break the rules of the Game and WIn
         </motion.h1>
         
         <motion.p 
