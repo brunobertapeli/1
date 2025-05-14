@@ -135,7 +135,7 @@ function Hero() {
           transition={{ duration: 0.5 }}
           className="hero-title"
         >
-          Make sure you do everything correct
+          Node React Lite v3
         </motion.h1>
         
         <motion.p 
